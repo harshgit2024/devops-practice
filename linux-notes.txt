@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "this is my first commit"
+ echo "hello world"
+ls
+mkdir d1
+cd d1
+touch t1 t2
+
