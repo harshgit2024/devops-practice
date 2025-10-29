@@ -1,0 +1,5 @@
+ls -la
+pwd
+mkdir d1
+touch t1.txt
+
